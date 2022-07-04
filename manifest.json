@@ -1,7 +1,7 @@
 {
   "name": "INFO6128 Project",
   "short_name": "Weather",
-  "start_url": "https://louis-2307.github.io/Final-Project-Web/",
+  "start_url": "https://davidgariba.github.io/WeatherPWA/",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#25A6D9",
@@ -44,7 +44,7 @@
       "name": "Current weather forecast",
       "short_name": "Forecast",
       "description": "Get the current weather at your current location",
-      "url": "https://louis-2307.github.io/Final-Project-Web/",
+      "url": "https://davidgariba.github.io/WeatherPWA/",
       "icons": [{"src":"assets/images/shortcutOne.png", "sizes": "192x192"}]
     }
   ]
