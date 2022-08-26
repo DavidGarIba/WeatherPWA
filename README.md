@@ -1,3 +1,4 @@
-# pwa-boilerplate
-Basic vanilla PWA boilerplate repository
 # WeatherPWA
+
+Demo Link Site
+https://davidgariba.github.io/WeatherPWA/
